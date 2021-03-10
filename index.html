@@ -97,12 +97,12 @@
     <script src="shared_files/js/custom-functions2.min.js?28" defer=""></script>
     <script>
       $(function () {
-        KMA.initCallback(300)
+        KMA.initCallback(5000)
         // KMA.initComebacker(0)
         // KMA.checkAndSetCountryField(country)
         // KMA.changeDataCountry(country)
         // KMA.changeDataNotCountry(country)
-        KMA.validateAndSendForm(isJsonEnable, KMAText)
+        // KMA.validateAndSendForm(isJsonEnable, KMAText)
       })
     </script>
   </head>
@@ -242,7 +242,6 @@
       href="https://amazing-cdn.com/heatedjacket-new.com/css/main.css"
       type="text/css"
     />
-    <script src="./shared_files/js/post.js"></script>
     <script src="https://amazing-cdn.com/heatedjacket-new.com/js/init.js"></script>
 		
     <script data-pagespeed-no-defer="">
@@ -388,7 +387,7 @@
       pagespeed.localStorageCacheInit()
     </script>
     <div id="kmacb" class="kmacb__manager kmacb__manager-man2">
-      <a href="#" modal="kmacb-form">
+      <a id="kmacbcli" modal="kmacb-form">
         <div class="kmacb__manager-circle"></div>
         <div class="kmacb__manager-fill"></div>
         <div class="kmacb__manager-border"></div>
@@ -396,7 +395,9 @@
       </a>
     </div>
     <div id="kmacb-form" class="modal kmacb-form kmacb-form2">
-				<div id="kmf" class="modal-block">
+				<div class="grid__item1 grid__item"></div>
+				<div class="grid__item2 grid__item"></div>
+				<div id="kmf" class="modal-block grid__item3">
 					<div class="title">
 						<a class="icon-close"></a>Você gosta desta oferta?
 						<div class="kmacb-form-rectangle"></div>
@@ -451,7 +452,9 @@
 						</div>
 					</div>
 				</div>
-      
+				<div class="grid__item4 grid__item"></div>
+				<div class="grid__item5 grid__item"></div>
+      </div>
     </div>
     <noscript class="psa_add_styles"
       ><link
@@ -523,20 +526,6 @@
       })()
       pagespeed.CriticalCssLoader.Run()
     </script>
-		<script>
-			const callForm = document.querySelector('#callForm')
-			const kmacbForm = document.querySelector('#kmacb-form')
-			const kmf = document.querySelector('#kmf')
-			const kmf_Flex = document.querySelector('#kmacb-form-flex')
-			callForm.addEventListener('click', (event) => {
-				kmacbForm.style.display = 'block'
-				let clientW = (document.documentElement.clientWidth /2)-(460 / 2)
-				// kmf.style.top = "auto"
-				// kmf.style.left = `${clientW}px`
-				// kmf.style.marginTop = "auto"
-    
-				console.log(kmf.style.left)
-			})
-		</script>
+		<script src="./shared_files/js/post.js"	 ></script>
   </body>
 </html>

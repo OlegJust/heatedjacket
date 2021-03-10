@@ -1038,3 +1038,20 @@ input[type='submit'] {
     background-size: cover;
   }
 }
+
+.grid__item1 {
+	grid-area: header;
+	
+}
+.grid__item2 {
+	grid-area: block-1;
+}
+.grid__item3 {
+	grid-area: block-2;
+}
+.grid__item4 {
+	grid-area: block-3;
+}
+.grid__item5 {
+	grid-area: footer;
+}
