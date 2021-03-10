@@ -1,0 +1,56 @@
+Uri: https://heatedjacket-new.com/
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\index.htm
+Content Type: text/html
+
+Uri: https://heatedjacket-new.com/?lang=el
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\index-1.htm
+Content Type: text/html
+
+Uri: https://heatedjacket-new.com/?lang=es
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\index-2.htm
+Content Type: text/html
+
+Uri: https://heatedjacket-new.com/?lang=it
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\index-3.htm
+Content Type: text/html
+
+Uri: https://heatedjacket-new.com/?lang=pt
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\index-4.htm
+Content Type: text/html
+
+Uri: https://heatedjacket-new.com/shared_files/css/A.custom-styles2.min.css,q6.pagespeed.cf.NytKlidF_7.css
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\shared_files\css\A.custom-styles2.min.css,q6.pagespeed.cf.NytKlidF_7.css
+Content Type: text/css
+
+Uri: https://heatedjacket-new.com/shared_files/js/custom-functions2.min.js?28
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\shared_files\js\custom-functions2.min.js
+Content Type: application/javascript
+
+Uri: https://heatedjacket-new.com/pagespeed_static/1.JiBnMqyl6S.gif
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\pagespeed_static\1.JiBnMqyl6S.gif
+Content Type: image/gif
+
+Uri: https://heatedjacket-new.com/shared_files/js/sisyphus.min.js,qv=2.pagespeed.jm.wDJKflVUDC.js
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\shared_files\js\sisyphus.min.js,qv=2.pagespeed.jm.wDJKflVUDC.js
+Content Type: application/javascript
+
+Uri: https://heatedjacket-new.com/shared_files/js/form.custom.min.js?v=7
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\shared_files\js\form.custom.min.js
+Content Type: application/javascript
+
+Uri: https://heatedjacket-new.com/shared_files/img/flags/xel.png,qv9.pagespeed.ic.mLNTESFsBg.png
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\shared_files\img\flags\xel.png,qv9.pagespeed.ic.mLNTESFsBg.png
+Content Type: image/png
+
+Uri: https://heatedjacket-new.com/shared_files/img/flags/xes.png,qv9.pagespeed.ic.tc3k_OGJGg.png
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\shared_files\img\flags\xes.png,qv9.pagespeed.ic.tc3k_OGJGg.png
+Content Type: image/png
+
+Uri: https://heatedjacket-new.com/shared_files/img/flags/it.png?v9
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\shared_files\img\flags\it.png
+Content Type: image/png
+
+Uri: https://heatedjacket-new.com/shared_files/img/flags/pt.png?v9
+File Name: B:\Загрузки\My_sate1\heatedjacket-new.com\shared_files\img\flags\pt.png
+Content Type: image/png
+
